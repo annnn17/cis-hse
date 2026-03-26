@@ -8,7 +8,9 @@
 ```
 cis-hse/
 ├── README.md
-├── report/
+├── Git Practice/
+│   ├── REPORT.md
+│   ├── main.py
 │   └── screenshots/
 ├── Ansible practice/
 │   ├── REPORT-task1.md
