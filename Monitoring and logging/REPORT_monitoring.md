@@ -28,6 +28,7 @@
 
 ![Запуск Prometheus](screenshots/docker_prometheus2.jpg)
 
+Использовала для себя порт 8101, так как порт 3001 был уже занят
 ![Prometheus app](screenshots/app_prometheus.jpg)
 
 ### 7. Веб-интерфейс Prometheus
