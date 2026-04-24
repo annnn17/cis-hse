@@ -32,7 +32,7 @@
 
 ![WebPage_01 console](screenshots/WebPage01_console.jpg)
 
-**Console Output (успешный запуск):**
+**Console Output (неуспешный запуск):**
 
 ![WebPage_01 console fail](screenshots/web_page01_console_fail.jpg)
 
