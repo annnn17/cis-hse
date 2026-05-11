@@ -18,8 +18,8 @@ git clone https://github.com/ChallengeEverything/gitlab_ci
 
 ```bash
 cd gitlab_ci
-git remote set-url origin https://oauth2:<TOKEN>@gl-hse.gitlab.yandexcloud.net/red01/gitlab_ci.git
-git push --mirror
+git remote add gitlab https://red01:ТОКЕН@gl-hse.gitlab.yandexcloud.net/red01/gitlab_ci.git
+git push --mirror gitlab
 ```
 
 Для работы pipeline настроена переменная CI/CD:
